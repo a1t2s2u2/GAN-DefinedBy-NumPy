@@ -1,0 +1,3 @@
+.DS_Store
+data/mnist_data.npy
+data/mnist_labels.npy
